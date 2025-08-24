@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,rails,postgres,docker,aws,vite,nodejs" />
+  <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,rails,postgres,docker,vite,nodejs" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-EA1C24?style=flat-square&logo=ruby-on-rails&logoColor=white" />
