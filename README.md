@@ -1,13 +1,12 @@
-## Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=takataka06" />
 </div>
+##About me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍💻 I'm a university student learning web development.
+- 🧑‍💻 I'm a second year university student learning web development.
 - 🌱 I’m currently learning Rails and Next.js!
-- 📫 How to reach me: [https://www.wantedly.com/id/takagi_kuga]
+- 📫 Here's how to reach me: [https://www.wantedly.com/id/takagi_kuga]
 <br>
 
 ## 🌱 Skills
