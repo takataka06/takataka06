@@ -1,8 +1,8 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi there I'm Kuga Takagi
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=takataka06" />
 </div>
-##About me
+## About me
 
 - 🧑‍💻 I'm a second year university student learning web development.
 - 🌱 I’m currently learning Rails and Next.js!
