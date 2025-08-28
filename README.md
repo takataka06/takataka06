@@ -41,7 +41,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | App using Ruby on Rails | A bullition board of my university | [GitHub](https://github.com/takataka06/TGU-) |
-
+| My portfolio | This is my portfolio!|  [GitHub](https://github.com/takataka06/My-portfolio) |
 ---
 
 <!--
