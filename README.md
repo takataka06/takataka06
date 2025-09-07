@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 2nd year university student
-- 🌱 Learning **Rails** & **Next.js**
-- 💡 Passionate about building modern web apps and exploring new tech trends!
+##  About Me
+-  2nd year university student
+-  Learning **Rails** & **Next.js**
+-  Passionate about building modern web apps and exploring new tech trends!
 
-- 📫 Reach me:
+-  Reach me:
   - Wantedly: [takagi_kuga](https://www.wantedly.com/id/takagi_kuga)
 
 
 ---
 
-## 🛠️ Skills
+##  Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,rails,postgres,docker,vite,nodejs" />
 </p>
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏃‍♂️ Activities & Stats
+##  Activities & Stats
 <div align="center">
   <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=takataka06&theme=vue-dark&show_icons=true&count_private=true" />
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takataka06&theme=vue-dark&layout=compact" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 🗂️ Featured Projects
+##  Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
 | App using Ruby on Rails | A bullition board of my university | [GitHub](https://github.com/takataka06/TGU-) |
