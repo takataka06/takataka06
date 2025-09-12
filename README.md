@@ -14,6 +14,7 @@
 
 -  Reach me:
   - Wantedly: [takagi_kuga](https://www.wantedly.com/id/takagi_kuga)
+  - Qiita: [takataka0316](https://qiita.com/takataka0316)
 
 
 ---
