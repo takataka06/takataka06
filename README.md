@@ -12,10 +12,6 @@
 -  Learning **Rails** & **Next.js**
 -  Passionate about building modern web apps and exploring new tech trends!
 
--  Reach me:
-  - Wantedly: [takagi_kuga](https://www.wantedly.com/id/takagi_kuga)
-  - Qiita: [takataka0316](https://qiita.com/takataka0316)
-
 
 ---
 
