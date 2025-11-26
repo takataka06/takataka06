@@ -26,14 +26,6 @@
 
 ---
 
-##  Activities & Stats
-<div align="center">
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=takataka06&theme=vue-dark&show_icons=true&count_private=true" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takataka06&theme=vue-dark&layout=compact" />
-</div>
-
----
-
 ##  Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
