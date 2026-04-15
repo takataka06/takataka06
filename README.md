@@ -8,10 +8,51 @@
 ---
 
 ##  About Me
--  2nd year university student
+-  3nd year university student
 -  Learning **Rails** & **Next.js**
--  Passionate about building modern web apps and exploring new tech trends!
+-  I'm currently working at yoake Inc as a intern student
 
+
+---
+
+## 🌟 Featured Project
+
+<table>
+  <tr>
+    <td width="60%">
+
+### 🎓 [TGline](https://github.com/TGU-Devs/TGline) — 東北学院大学 学内情報共有プラットフォーム
+
+東北学院大学生向けの情報共有Webアプリ。授業・就活・サークルなど学内の情報をTwitterライクな形式で共有できる。
+
+**👥 ユーザー数：250人以上（大学非公認）**
+
+| | |
+|---|---|
+| 🛠 フロントエンド | Next.js 15 / React 19 / TypeScript / Tailwind CSS |
+| ⚙️ バックエンド | Ruby on Rails 7.2 (API-only) / Devise + JWT |
+| 🗄 DB | PostgreSQL 15 |
+| 🚀 インフラ | Docker / Railway |
+| 🔐 認証 | JWT / Google OAuth / httpOnly Cookie |
+
+**主な取り組み：**
+- チームリーダーとしてプロジェクト全体のマネジメントを担当
+
+[![TGline](https://github-readme-stats.vercel.app/api/pin/?username=TGU-Devs&repo=TGline&theme=dark&show_owner=true)](https://github.com/TGU-Devs/TGline)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## 🗂 Other Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Rails掲示板 | 大学の掲示板アプリ（TGlineの原型） | [GitHub](https://github.com/takataka06/TGU-) |
+| My portfolio | 個人ポートフォリオ | [GitHub](https://github.com/takataka06/My-portfolio) |
+| TGU-next | TGlineのNext.js版（初期実装） | [GitHub](https://github.com/takataka06/TGU-next) |
 
 ---
 
@@ -24,14 +65,6 @@
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
----
-
-##  Featured Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| App using Ruby on Rails | A bullition board of my university | [GitHub](https://github.com/takataka06/TGU-) |
-| My portfolio | This is my portfolio!|  [GitHub](https://github.com/takataka06/My-portfolio) |
-| New TGU bulletin board | Nextjs version |  [GitHub](https://github.com/takataka06/TGU-next) |
 ---
 
 <!--
